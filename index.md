@@ -32,7 +32,7 @@ Qiu is a 2nd-year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
 ### **Future Goals**
 
-Looking ahead, Qiu is actively seeking opportunities to further his research and contribute to the cutting-edge developments in NLP. Qiu is now looking for **research intership and opportunities for undergraduates**. His ultimate goal is to pursue a Ph.D. to delve deeper into the challenges and possibilities of language modeling.
+Looking ahead, Qiu is actively seeking opportunities to further his research and contribute to the cutting-edge developments in NLP. Qiu is now looking for **research intership and opportunities for undergraduates**. His goal is to delve deeper into the challenges and possibilities of language modeling.
 
 <br>
 

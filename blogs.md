@@ -6,13 +6,6 @@ title: Blogs
 
 # NLP
 
-## Transformer 
-
-- Transformer Architecture
-- [Questions about Transformer](https://prnszz.github.io/blogs/Questions about Transformer)
-
-
-
 # Deep Learning
 
 # Memo

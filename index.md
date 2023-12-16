@@ -16,7 +16,7 @@ Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student study
 
 ### **Academic Background**
 
-Qiu is a $2^{nd}$ year student in [Tohoku university](https://www.tohoku.ac.jp/en/). His academic journey has equipped him with a solid foundation in machine learning, computer science, psychology and congnitive science. Qiu is eager to further expand his knowledge in the dynamic and evolving field of NLP.
+Qiu is a 2nd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). His academic journey has equipped him with a solid foundation in machine learning, computer science, psychology and congnitive science. Qiu is eager to further expand his knowledge in the dynamic and evolving field of NLP.
 
 <br>
 

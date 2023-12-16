@@ -4,13 +4,11 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-# NLP
-
 # Deep Learning
 
+# NLP
+
 # Memo
-
-
 
 
 

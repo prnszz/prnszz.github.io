@@ -1,4 +1,11 @@
+---
+layout: page
+permalink: /blogs/Questions about Transformer/index.html
+title: Questions about Transformer
+---
+
 # Why does the Transformer use multi-head attention mechanism? (Why not use a single head)
+
 - Increased Model Representation Capacity
 - Improved Stability and Generalization
 - Parallel Computation

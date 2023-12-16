@@ -8,8 +8,8 @@ title: Blogs
 
 ## Transformer 
 
-- [Transformer Architecture](https://prnszz.github.io/blogs/Transformer Architecture)
-- Questions about Transformer
+- Transformer Architecture
+- [Questions about Transformer](https://prnszz.github.io/blogs/Questions about Transformer)
 
 
 

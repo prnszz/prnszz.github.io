@@ -38,8 +38,8 @@ In different sentences, each word may take on  different meanings. So, to solve
 ### Proposed method
 The positional encoding vector for the $i$th position in the sequence can be represented as:
 $$\begin{align*}
-\text{PE}_{(pos, 2i)} &= \sin\left(\frac{pos}{{10000}^{2i/d}}\right) \\
-\text{PE}_{(pos, 2i+1)} &= \cos\left(\frac{pos}{{10000}^{2i/d}}\right)
+\text{PE}_{(pos, 2i)} &= \sin\left(\frac{pos}{10000^{2i/d}}\right) \\
+\text{PE}_{(pos, 2i+1)} &= \cos\left(\frac{pos}{10000^{2i/d}}\right)
 \end{align*}$$
 
 where:

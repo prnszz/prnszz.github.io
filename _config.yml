@@ -33,16 +33,6 @@ google_verify: "y6DEv_0wRXv9AyZZZm1FeEt1ucFzRw4Oa40fHGmTWn0"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  # - title: Notes
-    # url: /notes/
   - title: Blogs
     url: /blogs/
 

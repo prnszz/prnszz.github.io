@@ -9,6 +9,8 @@ layout: page
 Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student studying in the field of Natural Language Processing (**NLP**) with a keen interest in Large Language Model (LLM). 
 
 > e-mail: qiu.pengshuo.t5@dc.tohoku.ac.jp
+>
+> [CV]()
 
 <br>
 

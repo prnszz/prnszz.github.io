@@ -10,7 +10,7 @@ Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student study
 
 > e-mail: qiu.pengshuo.t5@dc.tohoku.ac.jp
 >
-> [CV]()
+> [CV](https://prnszz.github.io/CV.pdf)
 
 <br>
 

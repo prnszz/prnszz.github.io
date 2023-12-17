@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /CV/index.html
+permalink: /teams/index.html
 title: CV
-
 ---
 
 Check [pdf](https://www.dropbox.com/scl/fi/jawwjgn3ui19mptrkjwyn/CV.pdf?rlkey=wd6d9r2etbufms5y2kbhxhmnb&dl=0) on dropbox.

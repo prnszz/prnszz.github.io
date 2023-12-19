@@ -4,7 +4,7 @@ layout: page
 
 # About Pengshuo
 
-<img src="https://github.com/prnszz/picbed/blob/master/uPic/ab70b257089da5c991ddc285fbfd6bab.jpg?raw=true" class="floatpic" width="360" height="480">
+<https://prnszz.github.io/images/qps.jpg width="360" height="480">
 
 Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student studying in the field of Natural Language Processing (**NLP**) with a keen interest in Large Language Model (LLM). 
 

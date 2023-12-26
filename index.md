@@ -42,9 +42,9 @@ Looking ahead, Qiu is actively seeking opportunities to further his research and
 
 ---
 
-### **Why NLP?**
+### **A Project Demo**
 
-Natural Language Processing, for Qiu, is not just a field of study; it's a passion. The ability to make machines comprehend and generate human-like language opens the door to a myriad of possibilities, from enhancing communication between humans and machines to revolutionizing information retrieval and knowledge management.
+[How to build a transformer architecture decoder block? (step by step)](https://github.com/prnszz/Introduction-to-nlp/blob/main/Introduction%20to%20NLP/Transformer/coding%20transformer(decoder).ipynb)
 
 <br>
 

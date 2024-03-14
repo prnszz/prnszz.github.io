@@ -8,6 +8,13 @@ layout: page
 
 Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student studying in the field of Natural Language Processing (**NLP**) with a keen interest in Large Language Model (LLM). 
 
+Recently, he is working and studying on:
+
+- Explainability for LLM
+- LLM safety
+
+Personal information: 
+
 > e-mail: qiu.pengshuo.t5@dc.tohoku.ac.jp
 >
 > [CV](https://prnszz.github.io/CV.pdf)
@@ -18,7 +25,7 @@ Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student study
 
 ### **Academic Background**
 
-Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). His academic journey has equipped him with a solid foundation in machine learning, computer science, psychology and congnitive science. Qiu is eager to further expand his knowledge in the dynamic and evolving field of NLP.
+Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). He is advising by [Yuichiroh Matsubayashi](/Users/choupengshuo/Documents/GitHub/prnszz.github.io/Yuichiroh%20Matsubayashi) working with [Tohoku EduNLP Lab](https://www.edunlp.sed.tohoku.ac.jp/#) and [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp). 
 
 <br>
 
@@ -26,6 +33,7 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
 ### **Experience**
 
+- Research Intership at [CUHK](https://www.cuhk.edu.hk/) about multi-model. Pengshuo's job was collecting and cleaning dataset.  - (Dec 2023 - Mar 2024) 
 - Administrative Assistant @[Tohoku Global Learning Center](https://www.insc.tohoku.ac.jp/english/) - (Oct 2022 - Jan 2023)
 - Short term Exchange Student @[University of York](https://www.york.ac.uk) - (Feb 2023 - Mar 2023)
 - Short term Exchange Student @[UC Davis](https://www.ucdavis.edu) - (Aug 2022 - Sep 2022)

@@ -25,7 +25,7 @@ Personal information:
 
 ### **Academic Background**
 
-Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). He is advising by [Yuichiroh Matsubayashi](/Users/choupengshuo/Documents/GitHub/prnszz.github.io/Yuichiroh%20Matsubayashi) working with [Tohoku EduNLP Lab](https://www.edunlp.sed.tohoku.ac.jp/#) and [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp). 
+Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). He is advising by [Yuichiroh Matsubayashi](https://www.nlp.ecei.tohoku.ac.jp/~y-matsu/) working with [Tohoku EduNLP Lab](https://www.edunlp.sed.tohoku.ac.jp/#) and [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp). 
 
 <br>
 

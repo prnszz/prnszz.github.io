@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Pengshuo
+# About Pengshuo Qiu
 
 <img src="https://github.com/prnszz/prnszz.github.io/blob/main/images/qps.jpg?raw=true" class="floatpic" width="360" height="">
 

@@ -31,9 +31,19 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
 ---
 
+### Publication
+
+- [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io)
+
+  Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, Ziyu Guo, [Pengshuo Qiu](), Aojun Zhou, Pan Lu, Kai-Wei Chang, Peng Gao, Hongsheng Li
+
+<br>
+
+---
+
 ### **Experience**
 
-- Research Intership at [CUHK](https://www.cuhk.edu.hk/) about multi-model. Pengshuo's job was collecting and cleaning dataset.  - (Dec 2023 - Mar 2024) 
+- Research Intership at [CUHK](https://www.cuhk.edu.hk/) contributed to the paper [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io) Pengshuo's job was collecting and cleaning dataset.  - (Dec 2023 - Mar 2024) 
 - Administrative Assistant @[Tohoku Global Learning Center](https://www.insc.tohoku.ac.jp/english/) - (Oct 2022 - Jan 2023)
 - Short term Exchange Student @[University of York](https://www.york.ac.uk) - (Feb 2023 - Mar 2023)
 - Short term Exchange Student @[UC Davis](https://www.ucdavis.edu) - (Aug 2022 - Sep 2022)
@@ -50,24 +60,14 @@ Looking ahead, Qiu is actively seeking opportunities to further his research and
 
 ---
 
-### **A Project Demo**
-
-[How to build a transformer architecture decoder block? (step by step)](https://github.com/prnszz/Introduction-to-nlp/blob/main/Introduction%20to%20NLP/Transformer/coding%20transformer(decoder).ipynb)
-
-<br>
-
----
-
 ### **Skills**
 
 - Language: English, Chinese, Japanese
-- Coding: Python, PyTorch, Copilot
+- Coding: Python, Copilot
 
 <br>
 
 ---
 
 Thank you for visiting :)
-
-> 
 

@@ -18,6 +18,8 @@ Personal information:
 > e-mail: qiu.pengshuo.t5@dc.tohoku.ac.jp
 >
 > [CV](https://prnszz.github.io/CV.pdf)
+>
+> [Google Scholar](https://scholar.google.fr/citations?hl=zh-CN&pli=1&user=g2JKUtEAAAAJ)
 
 <br>
 

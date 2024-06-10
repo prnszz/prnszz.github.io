@@ -39,7 +39,8 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
   Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, Ziyu Guo, [Pengshuo Qiu](), Aojun Zhou, Pan Lu, Kai-Wei Chang, Peng Gao, Hongsheng Li
 
-- [Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035)  
+- [Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035)
+  
   [Pengshuo Qiu](), [Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), [Zining Zhu](https://ziningzhu.github.io/)
 
 <br>

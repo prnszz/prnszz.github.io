@@ -40,7 +40,7 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
   Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, Ziyu Guo, [Pengshuo Qiu](), Aojun Zhou, Pan Lu, Kai-Wei Chang, Peng Gao, Hongsheng Li
 
 - [Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035)
-  
+
   [Pengshuo Qiu](), [Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), [Zining Zhu](https://ziningzhu.github.io/)
 
 <br>
@@ -49,8 +49,8 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
 ### **Experience**
 
-- Research Intership at [SIT](https://www.stevens.edu/info-for/why-stevens) contributed to the paper [Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035).  
-- Research Intership at [CUHK](https://www.cuhk.edu.hk/) contributed to the paper [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io) 
+- Research Intership at ECAL, [SIT](https://www.stevens.edu/info-for/why-stevens) contributed to the paper [Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035).  
+- Research Intership at MMLAB, [CUHK](https://www.cuhk.edu.hk/) contributed to the paper [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io) 
 - Administrative Assistant @[Tohoku Global Learning Center](https://www.insc.tohoku.ac.jp/english/) - (Oct 2022 - Jan 2023)
 - Short term Exchange Student @[University of York](https://www.york.ac.uk) - (Feb 2023 - Mar 2023)
 - Short term Exchange Student @[UC Davis](https://www.ucdavis.edu) - (Aug 2022 - Sep 2022)

@@ -43,6 +43,10 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
   [Pengshuo Qiu](), [Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), [Zining Zhu](https://ziningzhu.github.io/)
 
+- [MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://mmsearch.github.io/)
+
+  Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, Jiayi Lei, [Pengshuo Qiu](), Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li
+
 <br>
 
 ---

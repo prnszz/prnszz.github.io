@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /chinese/index.html
+title: Chinese
 ---
 
 # 关于仇鹏硕

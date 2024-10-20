@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /japanese/index.html
+title: Japanese
 ---
 
 # 仇鹏硕について

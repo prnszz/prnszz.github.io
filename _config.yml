@@ -39,6 +39,8 @@ links:
     url: /japanese/
   - title: Chinese
     url: /chinese/
+  - title: Slides
+    url: /slides/index.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: GMT+9 Tokyo
@@ -72,7 +74,7 @@ kramdown:
 disqus:
   shortname: lancecai
 
-include: [".htaccess"]
+include: [".htaccess", "slides"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/12/10 by Hanlin Cai.

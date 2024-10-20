@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://github.com/prnszz/prnszz.github.io/blob/main/images/qps.jpg?raw=true" class="floatpic" width="360" height="">
 
-仇鹏硕是一位富有激情和抱负的学生，正在自然语言处理（**NLP**）领域学习，对大型语言模型（LLM）有着浓厚的兴趣。
+仇鹏硕是一位富有激情和抱负的学生，正在自然语言处理（NLP）领域学习，对大型语言模型（LLM）有着浓厚的兴趣。
 
 更多信息：
 
@@ -49,10 +49,12 @@ layout: page
 ### **经历**
 
 - 在[史蒂文斯理工学院](https://www.stevens.edu/info-for/why-stevens)的ECAL实习研究，参与了论文   
-[Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035)的撰写。
+[Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035)  
+的撰写。
 - 在[香港中文大学](https://www.cuhk.edu.hk/)的MMLAB实习研究，参与了论文   
 [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io)   
-[MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://mmsearch.github.io/)的撰写。
+[MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://mmsearch.github.io/)  
+的撰写。
 - [东北大学全球学习中心](https://www.insc.tohoku.ac.jp/english/)行政助理 - (2022年10月 - 2023年1月)
 - [约克大学](https://www.york.ac.uk)短期交换生 - (2023年2月 - 2023年3月)
 - [加州大学戴维斯分校](https://www.ucdavis.edu)短期交换生 - (2022年8月 - 2022年9月)

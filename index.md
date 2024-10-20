@@ -8,12 +8,8 @@ layout: page
 
 Pengshuo Qiu (仇鹏硕 or キュウ) is a passionate and aspiring student studying in the field of Natural Language Processing (**NLP**) with a keen interest in Large Language Model (LLM). 
 
-Recently, he is working and studying on:
 
-- Explainability for LLM
-- LLM safety
-
-Personal information: 
+More: 
 
 > e-mail: qiu.pengshuo.t5@dc.tohoku.ac.jp
 >
@@ -53,8 +49,11 @@ Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). 
 
 ### **Experience**
 
-- Research Intership at ECAL, [SIT](https://www.stevens.edu/info-for/why-stevens) contributed to the paper [Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035).  
-- Research Intership at MMLAB, [CUHK](https://www.cuhk.edu.hk/) contributed to the paper [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io) 
+- Research Intership at ECAL, [SIT](https://www.stevens.edu/info-for/why-stevens) contributed to the paper   
+[Scenarios and Approaches for Situated Natural Language Explanations](https://arxiv.org/abs/2406.05035).  
+- Research Intership at MMLAB, [CUHK](https://www.cuhk.edu.hk/) contributed to the paper   
+[MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://mathverse-cuhk.github.io)  
+[MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://mmsearch.github.io/)
 - Administrative Assistant @[Tohoku Global Learning Center](https://www.insc.tohoku.ac.jp/english/) - (Oct 2022 - Jan 2023)
 - Short term Exchange Student @[University of York](https://www.york.ac.uk) - (Feb 2023 - Mar 2023)
 - Short term Exchange Student @[UC Davis](https://www.ucdavis.edu) - (Aug 2022 - Sep 2022)

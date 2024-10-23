@@ -39,9 +39,9 @@ links:
     url: /chinese/
   - title: Slides
     url: /slides/index.html
-  - title: Pengshuo's Agent ↗
-    url: "https://pengshuoagent.streamlit.app/"
-    external: true
+  # - title: Pengshuo's Agent ↗
+  #   url: "https://pengshuoagent.streamlit.app/"
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: GMT+9 Tokyo

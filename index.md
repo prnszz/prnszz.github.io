@@ -17,10 +17,13 @@ More:
 >
 > [Google Scholar](https://scholar.google.fr/citations?hl=zh-CN&pli=1&user=g2JKUtEAAAAJ)
 
+
+## New! 
+Want to know more about Pengshuo and his experience?   
+Give [Pengshuo's Agent](https://pengshuoagent.streamlit.app/) a chance! 😃
 <br>
 
 ---
-
 ### **Academic Background**
 
 Qiu is a 3rd year student in [Tohoku university](https://www.tohoku.ac.jp/en/). He is advising by [Yuichiroh Matsubayashi](https://www.nlp.ecei.tohoku.ac.jp/~y-matsu/) working with [Tohoku EduNLP Lab](https://www.edunlp.sed.tohoku.ac.jp/#) and [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp). 

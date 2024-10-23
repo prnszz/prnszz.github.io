@@ -20,7 +20,7 @@ More:
 
 ## New! 
 Want to know more about Pengshuo and his experience?   
-Give [Pengshuo's Agent](https://pengshuoagent.streamlit.app/) a chance! 😃
+Give [🔥Pengshuo's Agent🔥](https://pengshuoagent.streamlit.app/) a chance! 😃
 <br>
 
 ---

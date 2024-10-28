@@ -20,7 +20,7 @@ More:
 
 ## New! 
 Want to know more about Pengshuo and his experience?   
-Give [🔥Pengshuo's Agent🔥](https://pengshuoagent.streamlit.app/) a chance! 😃
+Give [🔥Pengshuo's Agent🔥](https://pengshuoagent.streamlit.app/) a chance! 
 <br>
 
 ---
@@ -76,7 +76,9 @@ Looking ahead, Qiu is actively seeking opportunities to further his research and
 ### **Skills**
 
 - Language: English, Chinese, Japanese
-- Coding: Python, Copilot
+- Coding: Python, R
+- Libraries: Transformers, Pytorch, Numpy, Pandas, Matplotlib, Scikit-learn
+- Tools: Linux, Git, Django, Streamlit, Langchain, LangGraph
 
 <br>
 

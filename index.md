@@ -2,7 +2,9 @@
 layout: page
 ---
 
-# Here is my new [Portfolio page](https://portfolio-1vr2.vercel.app/). Here is my [previous page](https://prnszz.github.io/english/), just in case if you prefer a simple UI.
+# [New Portfolio page](https://portfolio-1vr2.vercel.app/). 
+
+Here is my [previous page](https://prnszz.github.io/english/), just in case if you prefer a simple UI.
 
 
 > e-mail: qiu.pengshuo.t5@dc.tohoku.ac.jp

@@ -33,12 +33,14 @@ google_verify: "y6DEv_0wRXv9AyZZZm1FeEt1ucFzRw4Oa40fHGmTWn0"
 links:
   - title: About Me
     url: /
+  - title: English
+    url: /english/
   - title: Japanese
     url: /japanese/
   - title: Chinese
     url: /chinese/
-  - title: Slides
-    url: /slides/index.html
+  # - title: Slides
+  #   url: /slides/index.html
   # - title: Pengshuo's Agent ↗
   #   url: "https://pengshuoagent.streamlit.app/"
   #   external: true
